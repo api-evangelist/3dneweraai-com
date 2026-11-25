@@ -66,7 +66,7 @@
 
 3D New Era AI offers an open-source architecture and interiors editor powered by a multi‑modal conversational AI. Users can design homes by speaking to the AI, which draws, furnishes, lights, and renders realistic images in real time. The platform runs on Windows, macOS, and Linux, and includes an MCP server for extensibility. It aims to democratize high‑quality interior design through accessible AI tools.
 
-**Areas:** AI · Architecture · Interior Design · Open Source · Multi-modal
+**Areas:** Artificial Intelligence · Architecture · Interior Design · Open Source · Multi-Modal
 
 ## 3D New Era AI on APIs.io
 
@@ -80,17 +80,23 @@ Everything profiled for 3D New Era AI is published on APIs.io rather than in thi
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [3dneweraai-com-mcp.yml](https://apis.io/servers/3dneweraai-com/3dneweraai-com-mcp-yml/)
+
 #### Security (1)
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [3Dneweraai Com Domain Security](https://apis.io/security/3dneweraai-com/3dneweraai-com-domain-security/)
+- [3D New Era AI Domain Security](https://apis.io/security/3dneweraai-com/3dneweraai-com-domain-security/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [3Dneweraai Com Plans Pricing](https://apis.io/plans/3dneweraai-com/3dneweraai-com-plans-pricing/)
+- [3D New Era AI Plans Pricing](https://apis.io/plans/3dneweraai-com/3dneweraai-com-plans-pricing/)
 
 ## Where to find this API
 
@@ -106,18 +112,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 17.6** — emerging · rubric 0.25.0 · scored 2026-10-31
+**Kin Score 18.6** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 58.3 |
+| Discoverability | 65.0 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
-| Operational transparency | 15.8 |
+| Operational transparency | 14.3 |
 | Developer ergonomics | 16.7 |
-| Access clarity | 31.6 |
+| Access clarity | 38.3 |
 
-**Agent readiness 21.8** — agent-aware
+**Agent readiness 21.7** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -142,8 +148,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 18.2** — AI & Biometrics
+**Regulatory alignment 12.7** — AI & Biometrics
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/3dneweraai-com/](https://apis.io/providers/3dneweraai-com/).
 
